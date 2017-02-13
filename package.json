@@ -36,7 +36,7 @@
     "sinon-chai": "2.8.0"
   },
   "dependencies": {
-    "jest-snapshot": "14.0.0",
+    "jest-snapshot": "methyl/jest-snapshot",
     "lodash.values": "^4.3.0"
   },
   "peerDependencies": {
